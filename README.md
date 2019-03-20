@@ -1,6 +1,6 @@
-# _Web pages: My First Webpage, My Favorite Things and My Favorite Places_
+# _Web pages: My First Webpage, Index and My Favorite Places_
 
-#### _Two web pages, 03/19/2019_
+#### _Three web pages, 03/19/2019_
 
 #### By _**Marc Davies**_
 

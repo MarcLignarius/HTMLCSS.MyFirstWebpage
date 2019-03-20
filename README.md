@@ -1,4 +1,4 @@
-# _Web pages: My First Webpage and Favorite Things_
+# _Web pages: My First Webpage, My Favorite Things and My Favorite Places_
 
 #### _Two web pages, 03/19/2019_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A couple of web pages built on Week 1 Day 1 of the Intro To Programming course from Epicodus. HTML added on Day 1 and CSS added on Day 2._
+_A couple of web pages built on Week 1 of the Intro To Programming course from Epicodus. Learning HTML and CSS._
 
 ## Support and contact details
 

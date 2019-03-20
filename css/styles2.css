@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+img {
+  width: 500px
+}
